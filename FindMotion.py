@@ -12,7 +12,7 @@ def find_motion():
 
     check = []
 
-   # print("wait for 2 seconds")
+   #print("wait for 2 seconds")
     time.sleep(2)
     frame1 = cap.read( )
 
